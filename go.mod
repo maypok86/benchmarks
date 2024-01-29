@@ -10,9 +10,9 @@ require (
 	github.com/dgraph-io/ristretto v0.1.1
 	github.com/hashicorp/golang-lru/arc/v2 v2.0.7
 	github.com/hashicorp/golang-lru/v2 v2.0.7
-	github.com/maypok86/otter v0.0.0-20240110190710-aa5896c1cc1f
+	github.com/maypok86/otter v1.0.0
 	github.com/orca-zhang/ecache v1.1.1
-	github.com/phuslu/lru v0.0.0-20240106105450-9fdd928b0ffc
+	github.com/phuslu/lru v1.0.0
 	github.com/pingcap/go-ycsb v1.0.1
 	github.com/scalalang2/golang-fifo/v2 v2.0.0-20231212012136-274aca942e14
 )
@@ -34,5 +34,5 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/zeebo/xxh3 v1.0.2 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
-	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/sys v0.16.0 // indirect
 )

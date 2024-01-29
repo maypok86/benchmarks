@@ -5,7 +5,7 @@ import (
 )
 
 type Otter[K comparable, V any] struct {
-	client *otter.Cache[K, V]
+	client otter.Cache[K, V]
 }
 
 func (c *Otter[K, V]) Init(cap int) {
@@ -30,5 +30,5 @@ func (c *Otter[K, V]) Set(key K, value V) {
 
 func (c *Otter[K, V]) Close() {
 	c.client.Close()
-	c.client = nil
+	c.client = otter.Cache[K, V]{}
 }

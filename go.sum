@@ -76,6 +76,8 @@ github.com/maypok86/otter v0.0.0-20240104173653-162349a6971c h1:sc6AX6OeN3M0IyWf
 github.com/maypok86/otter v0.0.0-20240104173653-162349a6971c/go.mod h1:koSPT30yWtqMNrFohaywMlgSHCuUg6IVqeDerwIM/Mg=
 github.com/maypok86/otter v0.0.0-20240110190710-aa5896c1cc1f h1:XYi30ANdsRMDHiaa1qbXJ8OxEYORwn6/tjnutPu9+1A=
 github.com/maypok86/otter v0.0.0-20240110190710-aa5896c1cc1f/go.mod h1:koSPT30yWtqMNrFohaywMlgSHCuUg6IVqeDerwIM/Mg=
+github.com/maypok86/otter v1.0.0 h1:nP13eaFQrfRQHD1vxEgdlqR9gLHvfW2VcS0hFitglIY=
+github.com/maypok86/otter v1.0.0/go.mod h1:koSPT30yWtqMNrFohaywMlgSHCuUg6IVqeDerwIM/Mg=
 github.com/ncw/directio v1.0.5 h1:JSUBhdjEvVaJvOoyPAbcW0fnd0tvRXD76wEfZ1KcQz4=
 github.com/ncw/directio v1.0.5/go.mod h1:rX/pKEYkOXBGOggmcyJeJGloCkleSvphPx2eV3t6ROk=
 github.com/nxadm/tail v1.4.4/go.mod h1:kenIhsEOeOJmVchQTgglprH7qJGnHDVpk1VPCcaMI8A=
@@ -94,6 +96,8 @@ github.com/orca-zhang/ecache v1.1.1 h1:krk4+/ihsLPg9/k2zYeRa7dNespTQsFnRcLWaJGFN
 github.com/orca-zhang/ecache v1.1.1/go.mod h1:1/6HCddx1iAbafDyRdddq5v/0rZf5sCU/fkLZ3BhciQ=
 github.com/phuslu/lru v0.0.0-20240106105450-9fdd928b0ffc h1:P7xEbJDhDhw+soTXTiZ6neAPw1pcwlPF4b2jUzmAAdw=
 github.com/phuslu/lru v0.0.0-20240106105450-9fdd928b0ffc/go.mod h1:ci5hb8dRIa+2I+KcPl4958OWCg09FxwZCP8InU1L1ME=
+github.com/phuslu/lru v1.0.0 h1:/vrgK3v2i5UVzJivjCnB7xE4eVHhmODcnHZe872N6dY=
+github.com/phuslu/lru v1.0.0/go.mod h1:RQxlDkg8zuudRLgl7bE9XJO72wr2ClLhjBg3uDEa+8I=
 github.com/pingcap/errors v0.11.5-0.20211224045212-9687c2b0f87c h1:xpW9bvK+HuuTmyFqUwr+jcCvpVkK7sumiz+ko5H9eq4=
 github.com/pingcap/errors v0.11.5-0.20211224045212-9687c2b0f87c/go.mod h1:X2r9ueLEUZgtx2cIogM0v4Zj5uvvzhuuiu7Pn8HzMPg=
 github.com/pingcap/go-ycsb v1.0.1 h1:OGIUjQjtC22KDHPCqg4+ScWYFZrHQjJnt3Gmf4N8UOw=
@@ -151,6 +155,8 @@ golang.org/x/sys v0.5.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/sys v0.14.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
 golang.org/x/sys v0.15.0 h1:h48lPFYpsTvQJZF4EKyI4aLHaev3CxivZmv7yZig9pc=
 golang.org/x/sys v0.15.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
+golang.org/x/sys v0.16.0 h1:xWw16ngr6ZMtmxDyKyIgsE93KNKz5HKmMa3b8ALHidU=
+golang.org/x/sys v0.16.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
 golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1/go.mod h1:bj7SfCRtBDWHUb9snDiAeCFNEtKQo2Wmx5Cou7ajbmo=
 golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 golang.org/x/text v0.3.2/go.mod h1:bEr9sfX3Q8Zfm5fL9x+3itogRgK3+ptLWKqgva+5dAk=
