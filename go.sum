@@ -33,8 +33,8 @@ github.com/gammazero/deque v0.2.1 h1:qSdsbG6pgp6nL7A0+K/B7s12mcCY/5l5SIUpMOl+dC0
 github.com/gammazero/deque v0.2.1/go.mod h1:LFroj8x4cMYCukHJDbxFCkT+r9AndaJnFMuZDV34tuU=
 github.com/go-echarts/go-echarts/v2 v2.4.0-rc1.0.20240207165231-c682d25c82b8 h1:7GxvOoZJJhMQV50IDibbw0ZpQ5YodMgDMck4NPhv9FI=
 github.com/go-echarts/go-echarts/v2 v2.4.0-rc1.0.20240207165231-c682d25c82b8/go.mod h1:56YlvzhW/a+du15f3S2qUGNDfKnFOeJSThBIrVFHDtI=
-github.com/go-echarts/snapshot-chromedp v0.0.1 h1:uOY0z1avS0o6FyiJ5EgUoc/RxfBuAIVxhHdQwpomnYA=
-github.com/go-echarts/snapshot-chromedp v0.0.1/go.mod h1:E7ugvjSUoFjFi2CpACHK79QxH/R7HCuoqV8UC54LhrI=
+github.com/go-echarts/snapshot-chromedp v0.0.2 h1:o4GHRFDCL+nhtms3iLXw5vk5od3OQs6DJDgEcx7PDGo=
+github.com/go-echarts/snapshot-chromedp v0.0.2/go.mod h1:E7ugvjSUoFjFi2CpACHK79QxH/R7HCuoqV8UC54LhrI=
 github.com/gobwas/httphead v0.1.0 h1:exrUm0f4YX0L7EBwZHuCF4GDp8aJfVeBrlLQrs6NqWU=
 github.com/gobwas/httphead v0.1.0/go.mod h1:O/RXo79gxV8G+RqlR/otEwx4Q36zl9rqC5u12GKvMCM=
 github.com/gobwas/pool v0.2.1 h1:xfeeEhW7pwmX8nuLVlqbzVc7udMDrwetjEv+TZIz1og=

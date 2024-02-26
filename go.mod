@@ -9,7 +9,7 @@ require (
 	github.com/dgryski/go-clockpro v0.0.0-20140817124034-edc6d3eeb96e
 	github.com/dgryski/go-tinylfu v0.0.0-20230408121034-c8e5d79bbb04
 	github.com/go-echarts/go-echarts/v2 v2.4.0-rc1.0.20240207165231-c682d25c82b8
-	github.com/go-echarts/snapshot-chromedp v0.0.1
+	github.com/go-echarts/snapshot-chromedp v0.0.2
 	github.com/hashicorp/golang-lru/arc/v2 v2.0.7
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/karlseguin/ccache/v3 v3.0.5
