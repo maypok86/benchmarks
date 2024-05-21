@@ -30,8 +30,8 @@ github.com/dustin/go-humanize v1.0.1 h1:GzkhY7T5VNhEkwH0PVJgjz+fX1rhBrR7pRT3mDkp
 github.com/dustin/go-humanize v1.0.1/go.mod h1:Mu1zIs6XwVuF/gI1OepvI0qD18qycQx+mFykh5fBlto=
 github.com/gammazero/deque v0.2.1 h1:qSdsbG6pgp6nL7A0+K/B7s12mcCY/5l5SIUpMOl+dC0=
 github.com/gammazero/deque v0.2.1/go.mod h1:LFroj8x4cMYCukHJDbxFCkT+r9AndaJnFMuZDV34tuU=
-github.com/go-echarts/go-echarts/v2 v2.4.0-rc1.0.20240207165231-c682d25c82b8 h1:7GxvOoZJJhMQV50IDibbw0ZpQ5YodMgDMck4NPhv9FI=
-github.com/go-echarts/go-echarts/v2 v2.4.0-rc1.0.20240207165231-c682d25c82b8/go.mod h1:56YlvzhW/a+du15f3S2qUGNDfKnFOeJSThBIrVFHDtI=
+github.com/go-echarts/go-echarts/v2 v2.4.0-rc2 h1:Od2aC5TsRf+HKoh0MHkdg2zIUXPfzB9GC4kEWTLSHAk=
+github.com/go-echarts/go-echarts/v2 v2.4.0-rc2/go.mod h1:56YlvzhW/a+du15f3S2qUGNDfKnFOeJSThBIrVFHDtI=
 github.com/go-echarts/snapshot-chromedp v0.0.3 h1:1WIOXMUfIU8ImhRMHuWFgXgKGu8OP6OjFmObDpMyqpI=
 github.com/go-echarts/snapshot-chromedp v0.0.3/go.mod h1:E7ugvjSUoFjFi2CpACHK79QxH/R7HCuoqV8UC54LhrI=
 github.com/gobwas/httphead v0.1.0 h1:exrUm0f4YX0L7EBwZHuCF4GDp8aJfVeBrlLQrs6NqWU=
