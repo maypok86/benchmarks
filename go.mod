@@ -3,7 +3,7 @@ module github.com/maypok86/benchmarks
 go 1.21.2
 
 require (
-	github.com/BurntSushi/toml v1.3.2
+	github.com/BurntSushi/toml v1.4.0
 	github.com/Yiling-J/theine-go v0.3.2
 	github.com/dgraph-io/ristretto v0.1.1
 	github.com/dgryski/go-clockpro v0.0.0-20140817124034-edc6d3eeb96e
