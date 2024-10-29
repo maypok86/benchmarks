@@ -1,7 +1,7 @@
 github.com/BurntSushi/toml v1.4.0 h1:kuoIxZQy2WRRk1pttg9asf+WVv6tWQuBNVmK8+nqPr0=
 github.com/BurntSushi/toml v1.4.0/go.mod h1:ukJfTF/6rtPPRCnwkur4qwRxa8vTRFBF0uk2lLoLwho=
-github.com/Yiling-J/theine-go v0.5.0 h1:ZIyQDTMRBWEqEopViwmScgSUKBNatTNcIfniN/hXMbo=
-github.com/Yiling-J/theine-go v0.5.0/go.mod h1:mdch1vjgGWd7s3rWKvY+MF5InRLfRv/CWVI9RVNQ8wY=
+github.com/Yiling-J/theine-go v0.6.0 h1:jv7V/tcD6ijL0T4kfbJDKP81TCZBkoriNTPSqwivWuY=
+github.com/Yiling-J/theine-go v0.6.0/go.mod h1:mdch1vjgGWd7s3rWKvY+MF5InRLfRv/CWVI9RVNQ8wY=
 github.com/bluele/gcache v0.0.2 h1:WcbfdXICg7G/DGBh1PFfcirkWOQV+v077yF1pSy3DGw=
 github.com/bluele/gcache v0.0.2/go.mod h1:m15KV+ECjptwSPxKhOhQoAFQVtUFjTVkc3H8o0t/fp0=
 github.com/cespare/xxhash/v2 v2.3.0 h1:UL815xU9SqsFlibzuggzjXhog7bL6oX9BbNZnL2UFvs=
