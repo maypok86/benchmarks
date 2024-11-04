@@ -9,7 +9,7 @@ require (
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/dgryski/go-clockpro v0.0.0-20140817124034-edc6d3eeb96e
 	github.com/dgryski/go-tinylfu v0.0.0-20230408121034-c8e5d79bbb04
-	github.com/go-echarts/go-echarts/v2 v2.4.3
+	github.com/go-echarts/go-echarts/v2 v2.4.4
 	github.com/go-echarts/snapshot-chromedp v0.0.4
 	github.com/hashicorp/golang-lru/arc/v2 v2.0.7
 	github.com/hashicorp/golang-lru/v2 v2.0.7
