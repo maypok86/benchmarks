@@ -71,7 +71,6 @@ func (s Simulator) Simulate() error {
 		}
 
 		for _, p := range policies {
-			p := p
 			capacity := capacity
 			eg.Go(func() error {
 				return s.simulatePolicy(p, capacity)
