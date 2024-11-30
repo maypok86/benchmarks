@@ -4,7 +4,7 @@ go 1.21.2
 
 require (
 	github.com/BurntSushi/toml v1.4.0
-	github.com/Yiling-J/theine-go v0.5.0
+	github.com/Yiling-J/theine-go v0.6.0
 	github.com/bluele/gcache v0.0.2
 	github.com/dgraph-io/ristretto v1.0.0
 	github.com/dgryski/go-clockpro v0.0.0-20140817124034-edc6d3eeb96e
