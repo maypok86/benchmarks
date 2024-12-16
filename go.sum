@@ -32,8 +32,8 @@ github.com/elastic/go-freelru v0.15.0 h1:Jo1aY8JAvpyxbTDJEudrsBfjFDaALpfVv8mxuh9
 github.com/elastic/go-freelru v0.15.0/go.mod h1:bSdWT4M0lW79K8QbX6XY2heQYSCqD7THoYf82pT/H3I=
 github.com/gammazero/deque v0.2.1 h1:qSdsbG6pgp6nL7A0+K/B7s12mcCY/5l5SIUpMOl+dC0=
 github.com/gammazero/deque v0.2.1/go.mod h1:LFroj8x4cMYCukHJDbxFCkT+r9AndaJnFMuZDV34tuU=
-github.com/go-echarts/go-echarts/v2 v2.4.3 h1:JVxD8idXAZHIGGvrmDT2LQKGKe2HgZLUfMxqmyJRdqY=
-github.com/go-echarts/go-echarts/v2 v2.4.3/go.mod h1:56YlvzhW/a+du15f3S2qUGNDfKnFOeJSThBIrVFHDtI=
+github.com/go-echarts/go-echarts/v2 v2.4.6 h1:fBrN2KNe0KTM8wLsysIUVbb0vwZJ+Z6TOXGMiiv+po4=
+github.com/go-echarts/go-echarts/v2 v2.4.6/go.mod h1:56YlvzhW/a+du15f3S2qUGNDfKnFOeJSThBIrVFHDtI=
 github.com/go-echarts/snapshot-chromedp v0.0.4 h1:RpSttzl1H850Kqzg6WdIBAVwVI8vMls+MQTexPI9pMg=
 github.com/go-echarts/snapshot-chromedp v0.0.4/go.mod h1:E7ugvjSUoFjFi2CpACHK79QxH/R7HCuoqV8UC54LhrI=
 github.com/gobwas/httphead v0.1.0 h1:exrUm0f4YX0L7EBwZHuCF4GDp8aJfVeBrlLQrs6NqWU=
